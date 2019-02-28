@@ -1,0 +1,24 @@
+{
+  "name": "first-repo-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapmorales/first-repo-remote.git"
+  },
+  "keywords": [],
+  "author": "Daniel Tapias Morales <tapmorales@gmail.com> (http://tapmorales.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapmorales/first-repo-remote/issues"
+  },
+  "homepage": "https://github.com/tapmorales/first-repo-remote#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
+}
