@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/tapmorales/first-repo-remote#readme",
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.3.1"
-  }
+    "bootstrap": "~4.1.3",
+    "jquery": "~3.3.1",
+    "lodash": "4.0.0"
+  },
+  "devDependencies": {}
 }
